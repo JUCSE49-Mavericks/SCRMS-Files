@@ -1,0 +1,6 @@
+teacher_name,preferred_days,preferred_times,courses
+Alice,"Monday, Wednesday, Thursday","morning, afternoon,morning","Math 101(theory), Physics 101(theory), Chemistry 101(theory)"
+Bob,"Tuesday, Thursday","afternoon, morning, noon","Computer Science 101(computer_lab), Electrical Engineering 101(circuit_lab), Math 102(theory)"
+Charlie,"Monday, Wednesday","morning, noon, afternoon","Physics 102(theory), Computer Science 102(computer_lab), Electrical Engineering 102(circuit_lab)"
+Diana,"Tuesday, Thursday","noon, afternoon, morning","Math 103(theory), Physics 103(theory), Chemistry 102(theory)"
+Edward,"Monday, Tuesday, Wednesday","afternoon, morning, noon","Computer Science 103(computer_lab), Electrical Engineering 103(circuit_lab), Math 104(theory)"
